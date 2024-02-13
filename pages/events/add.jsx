@@ -1,6 +1,6 @@
 function AddEventPage() {
   return (
-    <div>AddEventPage</div>
+    <h1>Add Event</h1>
   )
 }
 export default AddEventPage
