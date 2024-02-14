@@ -1,6 +1,10 @@
+import Layout from '../../components/Layout'
+
 function EventsPage() {
   return (
-    <h2>My Events</h2>
+    <Layout>
+      <h1>My Events</h1>
+    </Layout>
   )
 }
 export default EventsPage
